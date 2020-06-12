@@ -1,0 +1,1 @@
+{"/ran/M": {"PS": "S", "type": "std_msgs/Int32MultiArray", "name": "/ran/M"}, "/ran/f": {"PS": "S", "type": "std_msgs/Float32", "name": "/ran/f"}, "/ran": {"PS": "S", "type": "std_msgs/Int32", "name": "/ran"}}
